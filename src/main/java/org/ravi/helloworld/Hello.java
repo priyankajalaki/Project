@@ -4,7 +4,7 @@ public class Hello {
 	
 	public String displayHelloMessage(String message){
 		
-		this.Message = "hi";
+		this.message = "hi";
 	}
 
 }
